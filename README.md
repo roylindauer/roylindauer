@@ -11,4 +11,4 @@ Contact Me
 * [Mastodon](https://ruby.social/@r1y)
 * [GitHub](https://github.com/roylindauer)
 * [Linkedin](https://www.linkedin.com/in/roylindauer)
-* [Work with Me](https://www.royldevelopment.com)
+* [Work with Me](https://royldevelopment.com)
