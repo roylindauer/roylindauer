@@ -12,7 +12,6 @@ Outside of work, I'm an artist, a lifelong learner, Linux enthusiast, and avid r
 
 
 * [Website](https://roylindauer.com)
-* [Email](mailto:hello@roylindauer.com)
 * [GitHub](https://github.com/roylindauer)
 * [Linkedin](https://www.linkedin.com/in/roylindauer)
 * [Work with Me](https://royldevelopment.com)
